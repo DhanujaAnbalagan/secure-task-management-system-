@@ -12,7 +12,7 @@ Features JWT authentication, bcrypt password hashing, role-based access control 
 
 ### 📹 Project Walkthrough Video
 
-https://github.com/DhanujaAnbalagan/secure-task-management-system-/assets/video1.mp4
+https://github.com/DhanujaAnbalagan/secure-task-management-system-/blob/main/assets/screenshots/video1.mp4
 
 > ▶️ Click the video above to watch the full project walkthrough — covers registration, login, task CRUD, admin panel, and Swagger docs.
 
@@ -20,17 +20,25 @@ https://github.com/DhanujaAnbalagan/secure-task-management-system-/assets/video1
 
 ### 📸 Screenshots
 
-| Register Page | Login Page |
+| Sign In Page | Sign In (Alt) |
 |:---:|:---:|
-| ![Register](assets/screenshots/register.png) | ![Login](assets/screenshots/login.png) |
+| ![Sign In](assets/screenshots/signIn_page.jpg) | ![Sign In Alt](assets/screenshots/signIn_page1.jpg) |
 
-| Dashboard — Task List | Admin Panel |
+| Login Page | Central / Dashboard |
 |:---:|:---:|
-| ![Dashboard](assets/screenshots/dashboard.png) | ![Admin](assets/screenshots/admin.png) |
+| ![Login](assets/screenshots/login_page.jpg) | ![Central Page](assets/screenshots/central_page.jpg) |
 
-| Swagger API Docs |
+| Task View 1 | Task View 2 |
+|:---:|:---:|
+| ![Tasks C1](assets/screenshots/c1.jpg) | ![Tasks C2](assets/screenshots/c2.jpg) |
+
+| Task View 3 | Task View 4 |
+|:---:|:---:|
+| ![Tasks C3](assets/screenshots/c3.jpg) | ![Tasks C4](assets/screenshots/c4.jpg) |
+
+| Admin / Stats Panel |
 |:---:|
-| ![Swagger](assets/screenshots/swagger.png) |
+| ![Admin Stats](assets/screenshots/cc5.jpg) |
 
 ---
 
