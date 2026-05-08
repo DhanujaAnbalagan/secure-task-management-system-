@@ -8,6 +8,32 @@ Features JWT authentication, bcrypt password hashing, role-based access control 
 
 ---
 
+## 🎬 Demo
+
+### 📹 Project Walkthrough Video
+
+https://github.com/DhanujaAnbalagan/secure-task-management-system-/assets/video1.mp4
+
+> ▶️ Click the video above to watch the full project walkthrough — covers registration, login, task CRUD, admin panel, and Swagger docs.
+
+---
+
+### 📸 Screenshots
+
+| Register Page | Login Page |
+|:---:|:---:|
+| ![Register](assets/screenshots/register.png) | ![Login](assets/screenshots/login.png) |
+
+| Dashboard — Task List | Admin Panel |
+|:---:|:---:|
+| ![Dashboard](assets/screenshots/dashboard.png) | ![Admin](assets/screenshots/admin.png) |
+
+| Swagger API Docs |
+|:---:|
+| ![Swagger](assets/screenshots/swagger.png) |
+
+---
+
 ## Tech Stack
 
 | Layer           | Technology                          |
@@ -81,8 +107,8 @@ task-management-api/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
-cd task-management-api
+git clone https://github.com/DhanujaAnbalagan/secure-task-management-system-.git
+cd secure-task-management-system-
 ```
 
 ---
